@@ -92,6 +92,7 @@ fieldset {
 input {
   margin: 10px;
   border-radius: 2px;
+  height: 20px;
 }
 
 input:valid {
